@@ -17,4 +17,3 @@ var upElem = document.getElementById('up');
 upElem.onclick = () => {
       window.scrollTo(0,0);
 }
-let test = 333;
